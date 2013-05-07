@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="UserMgrService"
+  id="myeclipse.1367894054166"
+  context-root="/UserMgrService"
+  j2ee-spec="5.0"
+  archive="UserMgrService.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
